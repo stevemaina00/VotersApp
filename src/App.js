@@ -33,7 +33,7 @@ function App(){
                 <br />
                 {d.caption}
               
-                <p>{count} likes.</p>
+                <p>{count} likes</p>
                
     
              <p>   <svg  onClick={() => setCount(count + 1)}  key={d.id}  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-heart-fill" viewBox="0 0 16 16">
