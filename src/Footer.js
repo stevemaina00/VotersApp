@@ -3,7 +3,7 @@ function Footer(){
     return(
         <>
        <ul className="Footer">
-        <li>Blake Photography Services</li>
+        <li>Blake Photography</li>
         <li>Location:Parliament Road Nairobi CBD</li>
         <li>Contact Us:0112309874</li>
        
